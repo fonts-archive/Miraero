@@ -4,6 +4,7 @@
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Miraero/Miraero.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/Miraero/Miraero.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Miraero/Miraero.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Miraero/Miraero.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/Miraero/Miraero.ttf') format('truetype');
 }
